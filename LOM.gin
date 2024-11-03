@@ -1,0 +1,17 @@
+Config.exp_name = 'test'
+Config.dataset_loader = 'blender'
+Config.near = 2.
+Config.far = 6.
+Config.factor = 0
+Config.forward_facing = True
+Config.adam_eps = 1e-8
+Config.train_render_every = 1000
+Model.opaque_background = True
+Model.num_levels = 2
+Model.num_prop_samples = 128
+Model.num_nerf_samples = 32
+PropMLP.disable_density_normals = True
+PropMLP.disable_rgb = True
+NerfMLP.disable_density_normals = True
+Config.batch_size = 16384
+Config.render_chunk_size = 16384
