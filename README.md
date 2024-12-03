@@ -1,4 +1,4 @@
-# Overexposure-Robust Neural Radiance Fields for Novel View Synthesis
+# Extreme lighting Robust Neural Radiance Fields for Novel View synthesis
 # 1 Dataset
 We use datasets in our experiments:
 
