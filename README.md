@@ -44,7 +44,5 @@ $ pip3 install -r requirements.txt
 
 # 3 Running
 ```bash
-# Train and render test and camera path.
-sh scripts/train_render.sh
-# Evaluation
-sh eval.sh
+# running
+sh train_render.sh
