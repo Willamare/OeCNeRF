@@ -47,8 +47,7 @@ $ pip3 install -r requirements.txt
 # running
 sh train_render.sh
 
-All the experiment results and checkpoints will be saved to the 'exp/' directory.
-
+All the experiment results and checkpoints will be saved to the 'exp/' directory:
 exp   
 └─── llff   
       └─── AMEbike
